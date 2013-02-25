@@ -7,3 +7,6 @@ Command-line arguments:  -os win32 -ws win32 -arch x86_64
 
 !ENTRY com.android.ide.eclipse.adt 4 0 2013-02-25 13:08:26.267
 !MESSAGE Failed to load properties file for project 'Wireless_SeatBelt'
+
+!ENTRY org.eclipse.ui 2 2 2013-02-25 13:35:17.644
+!MESSAGE Invalid property category path: ValidationPropertiesPage (bundle: org.eclipse.wst.xml.ui, propertyPage: org.eclipse.wst.xml.ui.propertyPage.project.validation)

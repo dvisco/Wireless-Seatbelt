@@ -1,0 +1,9 @@
+!SESSION 2013-02-25 12:57:58.193 -----------------------------------------------
+eclipse.buildId=M20120914-1800
+java.version=1.7.0_11
+java.vendor=Oracle Corporation
+BootLoader constants: OS=win32, ARCH=x86_64, WS=win32, NL=en_US
+Command-line arguments:  -os win32 -ws win32 -arch x86_64
+
+!ENTRY com.android.ide.eclipse.adt 4 0 2013-02-25 13:08:26.267
+!MESSAGE Failed to load properties file for project 'Wireless_SeatBelt'
